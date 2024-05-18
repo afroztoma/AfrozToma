@@ -1,3 +1,4 @@
+![logo](https://github.com/afroztoma/Afroztoma/blob/main/Neon%20Modern%20Futuristic%20Simple%20Gaming%20YouTube%20Banner%20.png)
 <h1 align="center">Hi 👋, I'm afroztoma</h1>
 <h3 align="center">A passionate full stack web developer from Bangladesh.</h3>
 <img align="right" alt="coding"width="400"src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
