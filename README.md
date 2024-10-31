@@ -3,13 +3,7 @@
 <h3 align="center">A passionate full stack web developer from Bangladesh.</h3>
 <img align="right" alt="coding"width="400"src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
 
-- 🔭 I’m currently working on **Online Shoe Shop**
-
-- 🌱 I’m currently learning **Laravel,node.js**
-
 - 👨‍💻 All of my projects are available at [https://github.com/afroztoma](https://github.com/afroztoma)
-
-- 📝 I regularly write articles on [https://hozaifatoma.blogspot.com/](https://hozaifatoma.blogspot.com/)
 
 - 📫 How to reach me **hozaifaafroz35@gmail.com**
 
