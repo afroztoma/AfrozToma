@@ -1,14 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm afroztoma</h1>
+<h1 align="center">Hi 👋, I'm Hozaifa Afroz Toma</h1>
 <h3 align="center">A passionate full stack web developer from Bangladesh.</h3>
 <img align="right" alt="coding"width="400"src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
 
 - 👨‍💻 All of my projects are available at [https://github.com/afroztoma](https://github.com/afroztoma)
 
 - 📫 How to reach me **hozaifaafroz35@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1xN46z-5X2f-ekSX10vkLfTExz1NgihRK6Xy7ahBQ258/edit](https://docs.google.com/document/d/1xN46z-5X2f-ekSX10vkLfTExz1NgihRK6Xy7ahBQ258/edit)
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hozaifa afroz toma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hozaifa afroz toma" height="30" width="40" /></a>
